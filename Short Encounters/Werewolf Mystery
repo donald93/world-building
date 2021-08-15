@@ -8,27 +8,25 @@ Details:
 
     There are two ways to 'end' the quest - the werewolf is killed or the curse is lifted. 
 
-    How to lift the curse - if the players are too low a level to have the remove curse spell themselves they will require aid from the town cleric to prepare a spell like ritual. The ritual will require the cursed person's hair and some silver shavings. The shavings can be bought from the merchant (the cleric mentions it's too expensive for him) and the hair can be gotten from the shephard if they can find him (the cleric mentions the shephard has already gone to his hideout and doesn't know where it is). Once the cleric has everything he can prepare the ritual but he'll need to do it within 30 feet of the afflicted for it to take affect. If the players figure all this out quickly the shephard will be in human form and a willing subject - if not they'll need to distract the werewolf form for 5 turns while the cleric performs the ritual. (The DM can roll every turn for the cleric for dramatic effect but it will always take 5 turns. Nat 20's can make it take one less turn).
-
-    The players need to:
-
-        discover the quest
-        determine the cause is a werewolf
-        determine who the werewolf is*
-        determine how to lift the curse*
-        find the werewolf's lair
+    The cleric will lift the curse if the players cannot. He'll require assistance to research and know how to break the curse. Part of the time constraint of the quest is assisting in curse lifting research. There are multiple endings involving breaking the curse.
 
 How the quest begins:
 
     Phixi the innkeeper mentions people complaning about lost livestock over the last couple of months to the players if they ask about things happening in town
+    "Some of the fellas drinkin mentioned some of their livestock went missing last night. I even heard mention of bloody tracks and *looks around nervously* mysterious footprints. You best get a blessing from the cleric before wandering around about at night. The shephard might know more. He lives at the far edge of town near the fields."
 
     Random villagers will be overheard complaining about the Shephard missing from their usual dice game that evening (it's a full moon)
+    "Where's ~name? He's usually already lost half his worth by now."
+    "He did this last month too - I remember, it was the last full moon!"
 
     Whomever the wandering merchant is will mention seeing a strange creature as they ventured into town during the last full moon
+    "On my way into town last evening I saw a wretched creature stalking in the night. I didn't get a close look - but I was able to scare it away with my torch and some shouts. Luckily I was able to make it to into town before it came back - I would avoid wandering outside the walls after dark. I can only assume that after I fled it found it's sustanance elsewhere - perhaps at the ever plentiful livestock fields these townspeople tend to.
 
     The players will encounter the remains of livestock if they venture out of town on another quest. They could also accidentally stumble upon the werewolf's lair
+    ~As you make your way towards the outer edge of the livestock fields you start to smell the freshly slaughtered livestock. You eventually track down a few bloodly lumps that seem to be the remains of somewhere between 2 and 3 sheep. Their bodies are mutilated with distinticive slashes and bite marks. (Nature/Investigate 10 to discover more about the attack and that it was a werewolf. 15 to specifically give details about lycanthropy).
 
     Baggi will have crafted a metal restraint for the cleric if asked about anything strange. 
+    ~The cleric came to me asking if I could work on a sort of...metal restraint. I asked him what for but he was curt with me - and I'm not one to pry into a man's private business so I went ahead and got him what he needed. It was a circular clasp on a short chain. The clasp was big enough to wrap around my entire thigh - and I'm a large lady. I don't know what his...plans were for it but I can assure you that restraint won't be breaking anytime soon - only quality items are sold here at the Everwinter Forge.
 
 How to determine the cause is a werewolf:
 
@@ -36,7 +34,8 @@ How to determine the cause is a werewolf:
 
     The innkeeper mentions the dead livestock, 
     the traveling merchant can also assume the creature was hunting livestock, 
-    and some townsfolk will approach the adventuruers to ask they investigate
+    and some townsfolk will approach the adventurers to ask they investigate
+    Some townsfolk approach you - "Sorry to bother you lot, we noticed you're new in town, where you brought by Elleon like the last bunch? If so, we have something that needs lookin into if you can spare some time."
 
 How to determine who the werewolf is:
 
@@ -44,7 +43,13 @@ How to determine who the werewolf is:
 
     The cleric can be persuaded (DC 15) to give up the secret of who the werewolf is
 
-    There is a journal entry in the shephard's house about the first time this happened
+    There is a journal entry in the shephard's house about the first time this happened (Investigate 10)
+
+    "I woke this morning naked and covered in blood. The last thing I remember was being entranced by the full moon...and then everything went dark. I don't know what's going on."
+
+    "It happened again, the very next night. Once the moon came out I was powerless, but I remember more. I killed some sheep and ate like I was a starving beast. I need to visit the cleric, he'll know what to do.
+
+    "Again it happened, this should be the last night of the fullmoon but the cleric think it's a curse called liekanfropy...gods, a curse...how could this happen to me? Could it have something to do with that strange creature that attacked the flocks a few weeks ago? Or have the gods taken disfavor with me...regardless the cleric and I have a plan. I'll be rid of this curse before next full moon. But just in case - I'll need a safe place to hide. Perhaps that cave I've found while exploring as a child...no one ever goes out there. I'll figure something out.
 
 How to determine there is a curse and how to lift it:
 
@@ -56,11 +61,17 @@ How to determine there is a curse and how to lift it:
 
 How to find the werewolf's lair:
 
-    Tracking the werewolf from the livestock
+    Tracking the werewolf from the livestock or from the shephard's house
 
         Below a 5 - players must kill the werewolf unless the cleric is attending. He'll show up after the werewolf is killed to cure the players of their possible curses after fighting the werewolf and laments on the fact that his friend is dead and how he could have saved him if he had only been a bit quicker.
 
+        "As the light fades from the werewolf's eyes it slowly transforms back into it's original form. *describe the shephard* "I..I was too late" - a voice from the entrance to the cave. You turn to see the town cleric standing in the cave's entrance. "He had confided his affliction in me and I had been working on a ritual to lift the curse...but it appears you got to him first...shame...he was a good man - this was not his fault. You notice tears start to swell in the man's eyes as he turns away from the cave. I'll make arrangements for his burial - but please, I beg you not to disclose what has happened here. No need to tarnish a good man's reputation. 
+        ~He moves towards the closes party member and hands them a scroll of remove curse. 
+        "Here, in case any of you have become afflicted with his disease as well." He leaves without saying anything else.
+
         Any roll below between 5-13 will result in the party arriving at the hideout post werewolf transformation so they'll be in for a fight but the cleric will show up during the fight to warn them of lifting the curse. He shows up after two rounds of combat.
+
+        "Wait!" You hear a shout towards the entrance to the cave. The town cleric stands at the entrance. "I can remove his curse if you can distract him for a time!" The cleric begins to prepare his spell whether the adventurers agree or not. At this point it will take between 3 and 5 rounds of combat with the cleric not being attacked to break the curse.
 
         A roll above a 13 will allow the players to quickly track down the hideout and meet the shephard in human form to perform the ritual. They can bring the shephard to the cleric and perform the ritual if the cleric wasn't already coming.
 
@@ -70,6 +81,11 @@ The ending:
 
     If the players lift the curse the shephard is grateful and pays them 100gp. He also let's the players know where a pack of werewolves reside deeper in the woods that have been attacking travelers.
 
+    Either the shephard awakens in human form or is already in his human form
+    "Is..is that it? Am I free?" He looks at his hands flipping them over to make sure they are indeed human.
+
+    "Th-thank you! I'm free of this wretched curse because of you!"
+
     If the players kill the werewolf the cleric will question where the original lycanthropy curse came from and ask the players to seek it out in a future adventure. He gives them a scroll of lift curse as a reward.
 
     If the players decide to loot the the werewolf lair after the fact they will find:
@@ -77,3 +93,25 @@ The ending:
     Pipe of Smoke Monsters
     Staff of Birdcalls
     50gp in gemstones
+
+The Shpehard:
+
+    Doesn't know how to break the curse
+
+    Can tell the adventurers about the werewolf den further in the forest
+
+    Knows the location of his secret hideout
+
+    Remembers being attacked a few moons ago
+
+    Is grateful for his release from the curse and will want to celebrate with drinks and dice...and wants to make sure the flock is doing well
+
+The cleric:
+
+    Secretly knows about the Shephard's affliction (Will give it up for a 15 persuasion/intimidation) OR if the adventurers provide evidence that they know something is going on (Baggi's comments, the shephard's journal)
+
+    Doesn't know where the hideout is
+
+    Requires time to gather materials and readings for the ritual - Once the secret is out he can be assisted with a religion roll to speed this up to make it to the shephard pretransformation (10 to be considered 'on time'). If the players help the cleric do this he'll always be able to break curses for them (for a price)
+
+    Will point the adventurer's in the shephard's direction if they can't succeed the persuasion the first time
