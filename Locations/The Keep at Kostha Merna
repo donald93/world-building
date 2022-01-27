@@ -1,0 +1,73 @@
+Barracks:
+
+    Door is locked - DC 15 to open
+
+    "You open the door to what appears to be a long abandoned barracks. The room is lined with racks of weapons, most of them still occupied. There are pieces of military gear (weaponsa and armor) mixed with what looks like fishing gear - tridents, spears, and nets. A thick layer of dust coats everything, it's clear no one has been here in a long time."
+
+    Items:
+        Regular weapons - bad shape: short swords, axes. Fishing gear - better shape: three tridents, two nets, 100 gold in various places, and a two set of damaged/rusted plate armor.
+
+Dining Hall:
+
+    No door challenge
+
+    "This room is very open and taller than the hallway. It has benches and tables placed in rows down the middle of the room. On one side is a long cold hearth, you can still see the scarring the fire left on the stone. It's colder in here, you can feel the cold air leaking in through the hearth."
+
+    Items:
+        Old silverware, plates, and mugs (worth 50gp)
+
+Food and Supply Store:
+
+    No door challenge
+
+    "This room is full of barrels and what looks like drying racks for meats. It smells like rotten food."
+
+    Items:
+        Two casks of 'very aged' ale
+
+Bathing Area:
+
+    Door:
+        The door is stuck. DC 15 athletics to break in, DC 10 to hit with 5hp
+
+    "This room is much smaller than the last few. On one side there are several smaller stalls that all appear closed. Along another side are some large tubs. There's a small hearth in the back."
+
+    No items of note
+
+Bedrooms:
+
+    This far down the hallway you feel a breeze past the remainging doors. There is a small, dull light at the end of the hallway.
+
+    This room looks like a family sized living quarters. There's a large bed near the back and two smaller beds in other areas. There's some empty shelves and loose odds and ends laying around.
+
+    Each room has an average of 10 GP inside.
+
+    1 room has:
+        Decorative silver candlesticks (50 GP)
+
+    1 room has:
+        Trapped chest: DC 15 investigation to see poison dart trap. DC 15 Con to take 1d4 piercing + 11(/2) poison
+        Inside: A bag of holding
+
+    1 room has:
+        Locked chest: DC 15 to open
+        Ring of Warmth
+
+    1 room has:
+        100 GP 
+
+    1 room has:
+        Locked chest: DC 15 to open
+        2 sapphires (50 GP each)
+        A ring of Swimming
+
+
+Royal Bedroom:
+
+    Door is locked. DC 15 to open.
+
+    "This room opens to a much larger chamber. There is a large bed along the back wall with 4 corner posts and the remains of a canopy. A handful of smaller beds line the walls. The remains of a large rug cover most of the floor and there are faded hanging curtains along the walls. In the center of the room is a stone pedastal covered with a cloth.
+
+    Items:
+        The Axe of Elfsong
+
